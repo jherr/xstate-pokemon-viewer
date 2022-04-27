@@ -1,0 +1,14 @@
+{
+  "id": 16,
+  "name": "Pidgey",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "special_attack": 35,
+  "special_defense": 35,
+  "speed": 56
+}

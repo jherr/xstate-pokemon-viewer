@@ -1,0 +1,14 @@
+{
+  "id": 21,
+  "name": "Spearow",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "hp": 40,
+  "attack": 60,
+  "defense": 30,
+  "special_attack": 31,
+  "special_defense": 31,
+  "speed": 70
+}

@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "name": "Fearow",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "hp": 65,
+  "attack": 90,
+  "defense": 65,
+  "special_attack": 61,
+  "special_defense": 61,
+  "speed": 100
+}

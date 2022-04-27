@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "name": "Metapod",
+  "type": [
+    "Bug"
+  ],
+  "hp": 50,
+  "attack": 20,
+  "defense": 55,
+  "special_attack": 25,
+  "special_defense": 25,
+  "speed": 30
+}

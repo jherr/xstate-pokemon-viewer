@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "hp": 60,
+  "attack": 62,
+  "defense": 63,
+  "special_attack": 80,
+  "special_defense": 80,
+  "speed": 60
+}

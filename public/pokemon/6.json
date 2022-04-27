@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "name": "Charizard",
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "hp": 78,
+  "attack": 84,
+  "defense": 78,
+  "special_attack": 109,
+  "special_defense": 85,
+  "speed": 100
+}

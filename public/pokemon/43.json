@@ -1,0 +1,14 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "hp": 45,
+  "attack": 50,
+  "defense": 55,
+  "special_attack": 75,
+  "special_defense": 65,
+  "speed": 30
+}

@@ -1,0 +1,13 @@
+{
+  "id": 26,
+  "name": "Raichu",
+  "type": [
+    "Electric"
+  ],
+  "hp": 60,
+  "attack": 90,
+  "defense": 55,
+  "special_attack": 90,
+  "special_defense": 80,
+  "speed": 110
+}

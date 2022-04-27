@@ -1,0 +1,13 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "type": [
+    "Ground"
+  ],
+  "hp": 50,
+  "attack": 75,
+  "defense": 85,
+  "special_attack": 20,
+  "special_defense": 30,
+  "speed": 40
+}

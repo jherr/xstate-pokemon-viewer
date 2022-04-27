@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "type": [
+    "Fire"
+  ],
+  "hp": 58,
+  "attack": 64,
+  "defense": 58,
+  "special_attack": 80,
+  "special_defense": 65,
+  "speed": 80
+}

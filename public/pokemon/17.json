@@ -1,0 +1,14 @@
+{
+  "id": 17,
+  "name": "Pidgeotto",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "hp": 63,
+  "attack": 60,
+  "defense": 55,
+  "special_attack": 50,
+  "special_defense": 50,
+  "speed": 71
+}

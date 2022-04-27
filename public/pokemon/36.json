@@ -1,0 +1,13 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "type": [
+    "Fairy"
+  ],
+  "hp": 95,
+  "attack": 70,
+  "defense": 73,
+  "special_attack": 95,
+  "special_defense": 90,
+  "speed": 60
+}

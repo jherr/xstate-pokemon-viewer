@@ -1,0 +1,14 @@
+{
+  "id": 31,
+  "name": "Nidoqueen",
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "hp": 90,
+  "attack": 92,
+  "defense": 87,
+  "special_attack": 75,
+  "special_defense": 85,
+  "speed": 76
+}

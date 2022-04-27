@@ -1,0 +1,14 @@
+{
+  "id": 41,
+  "name": "Zubat",
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "hp": 40,
+  "attack": 45,
+  "defense": 35,
+  "special_attack": 30,
+  "special_defense": 40,
+  "speed": 55
+}

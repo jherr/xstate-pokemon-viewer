@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "type": [
+    "Poison"
+  ],
+  "hp": 60,
+  "attack": 95,
+  "defense": 69,
+  "special_attack": 65,
+  "special_defense": 79,
+  "speed": 80
+}

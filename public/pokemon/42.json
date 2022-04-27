@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "name": "Golbat",
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "hp": 75,
+  "attack": 80,
+  "defense": 70,
+  "special_attack": 65,
+  "special_defense": 75,
+  "speed": 90
+}

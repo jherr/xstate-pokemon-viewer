@@ -1,0 +1,14 @@
+{
+  "id": 34,
+  "name": "Nidoking",
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "hp": 81,
+  "attack": 102,
+  "defense": 77,
+  "special_attack": 85,
+  "special_defense": 75,
+  "speed": 85
+}

@@ -1,0 +1,45 @@
+{
+  "pageCount": 5,
+  "list": [
+    {
+      "id": 31,
+      "name": "Nidoqueen"
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂"
+    },
+    {
+      "id": 33,
+      "name": "Nidorino"
+    },
+    {
+      "id": 34,
+      "name": "Nidoking"
+    },
+    {
+      "id": 35,
+      "name": "Clefairy"
+    },
+    {
+      "id": 36,
+      "name": "Clefable"
+    },
+    {
+      "id": 37,
+      "name": "Vulpix"
+    },
+    {
+      "id": 38,
+      "name": "Ninetales"
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff"
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff"
+    }
+  ]
+}

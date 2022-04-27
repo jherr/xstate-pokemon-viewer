@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "name": "Beedrill",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "hp": 65,
+  "attack": 90,
+  "defense": 40,
+  "special_attack": 45,
+  "special_defense": 80,
+  "speed": 75
+}

@@ -1,0 +1,14 @@
+{
+  "id": 40,
+  "name": "Wigglytuff",
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "hp": 140,
+  "attack": 70,
+  "defense": 45,
+  "special_attack": 85,
+  "special_defense": 50,
+  "speed": 45
+}

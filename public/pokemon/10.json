@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "name": "Caterpie",
+  "type": [
+    "Bug"
+  ],
+  "hp": 45,
+  "attack": 30,
+  "defense": 35,
+  "special_attack": 20,
+  "special_defense": 20,
+  "speed": 45
+}

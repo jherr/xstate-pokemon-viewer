@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "name": "Sandslash",
+  "type": [
+    "Ground"
+  ],
+  "hp": 75,
+  "attack": 100,
+  "defense": 110,
+  "special_attack": 45,
+  "special_defense": 55,
+  "speed": 65
+}

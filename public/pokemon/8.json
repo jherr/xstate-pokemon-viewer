@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "name": "Wartortle",
+  "type": [
+    "Water"
+  ],
+  "hp": 59,
+  "attack": 63,
+  "defense": 80,
+  "special_attack": 65,
+  "special_defense": 80,
+  "speed": 58
+}

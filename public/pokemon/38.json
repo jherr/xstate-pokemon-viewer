@@ -1,0 +1,13 @@
+{
+  "id": 38,
+  "name": "Ninetales",
+  "type": [
+    "Fire"
+  ],
+  "hp": 73,
+  "attack": 76,
+  "defense": 75,
+  "special_attack": 81,
+  "special_defense": 100,
+  "speed": 100
+}

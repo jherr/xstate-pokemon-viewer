@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "name": "Squirtle",
+  "type": [
+    "Water"
+  ],
+  "hp": 44,
+  "attack": 48,
+  "defense": 65,
+  "special_attack": 50,
+  "special_defense": 64,
+  "speed": 43
+}

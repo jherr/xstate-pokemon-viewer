@@ -1,0 +1,13 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "type": [
+    "Fairy"
+  ],
+  "hp": 70,
+  "attack": 45,
+  "defense": 48,
+  "special_attack": 60,
+  "special_defense": 65,
+  "speed": 35
+}
