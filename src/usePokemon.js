@@ -37,11 +37,11 @@ export const usePokemon = () => {
   }, [state.selectedPokemonID]);
 
   const setCurrentPage = useCallback(
-    (page) => dispatch({ currentPage: page }),
+    (currentPage) => dispatch({ currentPage }),
     []
   );
   const setSelectedPokemonID = useCallback(
-    (id) => dispatch({ selectedPokemonID: id }),
+    (selectedPokemonID) => dispatch({ selectedPokemonID }),
     []
   );
 
