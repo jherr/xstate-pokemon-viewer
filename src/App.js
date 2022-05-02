@@ -1,19 +1,21 @@
 import React from "react";
+import { useMachine } from "@xstate/react";
 
 import { PokemonImage, Pokemon, PokemonList, Pages } from "./Components";
-import { usePokemon } from "./usePokemon";
+import pokemonViewerMachine from "./pokemonViewerMachine";
 
 import "./App.css";
 
 function App() {
-  const {
-    error,
-    pageCount,
-    setCurrentPage,
-    pokemonList,
-    setSelectedPokemonID,
-    selectedPokemon,
-  } = usePokemon();
+  const [
+    {
+      value,
+      context: { pageCount, pokemonList, selectedPokemon },
+    },
+    send,
+  ] = useMachine(pokemonViewerMachine);
+  const error = value === "showError";
+  const setCurrentPage = () => {};
 
   return (
     <div className="app">
@@ -23,9 +25,22 @@ function App() {
           <div>
             <PokemonList
               pokemonList={pokemonList}
-              onClick={setSelectedPokemonID}
+              onClick={(id) => {
+                send({
+                  type: "SET_SELECTED_POKEMON_ID",
+                  id,
+                });
+              }}
             />
-            <Pages pageCount={pageCount} onClick={setCurrentPage} />
+            <Pages
+              pageCount={pageCount}
+              onClick={(page) =>
+                send({
+                  type: "SET_CURRENT_PAGE",
+                  page,
+                })
+              }
+            />
           </div>
           <div>
             <Pokemon pokemon={selectedPokemon} />

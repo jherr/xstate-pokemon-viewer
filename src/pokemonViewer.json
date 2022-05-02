@@ -1,0 +1,24 @@
+{
+  "id": "PokemonViewer",
+  "initial": "getPokemonList",
+  "states": {
+    "getPokemonList": {
+      "invoke": {
+        "src": "fetchCurrentPage",
+        "onDone": [
+          {
+            "actions": "savePokemonList",
+            "target": "showPokemonList"
+          }
+        ],
+        "onError": [
+          {
+            "target": "showError"
+          }
+        ]
+      }
+    },
+    "showPokemonList": {},
+    "showError": {}
+  }
+}
